@@ -12,5 +12,5 @@ I build projects that bridge experimental immunology with computational modeling
 
 I’m looking to pursue a PhD at the intersection of immunology and machine learning, driven by a strong belief that the next era of biomedical progress will come from building real bridges between biology and computation.
 
-Coming from a biology-first background, there is still a lot to learn on the technical side, and I’m actively working to deepen my skills in modeling, software, and quantitative thinking. 
-My goal is to contribute biological intuition and experimental rigor while growing into the computational tools needed to build interpretable, biologically grounded models that accelerate therapeutic discovery and support reliable simulation to reduce reliance on animal testing.
+Coming from a biology-first background, there is still a lot to learn on the technical side, and I’m actively working to deepen my skills in modeling and quantitative thinking. 
+My goal is to combine my background in biology and immunology with my expertise in wet lab work and apply it to computer science. My ultimate goal is to start a company combining ML and biology to accelerate discovery, development, and processes related to biologics.
